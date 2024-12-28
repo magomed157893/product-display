@@ -47,3 +47,5 @@ docker compose up -d
 ```
 
 http://localhost:8080
+
+![alt text](https://github.com/magomed157893/product-display/blob/main/screenshot.png)
